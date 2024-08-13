@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hey it's me, Caleb ✌️</b></h1>
 
-I'm finishing up a bachelor's degree in Applied Computer Technology, and looking for a place to work in 2024. 
-
 <!--
 **belacmu/belacmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
